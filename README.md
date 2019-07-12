@@ -1,5 +1,5 @@
-# Motogp a reactjs playground
+# Motogp - playground
 
 ## Notes
 
-1. Test-demo project.
+...
