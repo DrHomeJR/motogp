@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/motogp/precache-manifest.db5e50ca41882a9c75fc1da033ef9d35.js"
+  "/motogp/precache-manifest.cacea13383f64e52caec27ce084125ff.js"
 );
 
 self.addEventListener('message', (event) => {

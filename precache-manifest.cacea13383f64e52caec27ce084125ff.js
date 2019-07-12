@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb9331b2a8fcf704e8a932a3c51847cf",
+    "revision": "74a5e5d4085bda0cee65dc99c1761abe",
     "url": "/motogp/index.html"
   },
   {
-    "revision": "e978dd2314783a6f1021",
-    "url": "/motogp/static/css/main.489a69cc.chunk.css"
+    "revision": "a59ec322228d679fac98",
+    "url": "/motogp/static/css/main.180cfff2.chunk.css"
   },
   {
     "revision": "36195ce9c5eb964062d4",
     "url": "/motogp/static/js/2.36a9cd08.chunk.js"
   },
   {
-    "revision": "e978dd2314783a6f1021",
+    "revision": "a59ec322228d679fac98",
     "url": "/motogp/static/js/main.44acb10e.chunk.js"
   },
   {
