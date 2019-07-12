@@ -1,0 +1,15 @@
+html {
+  text-align: center;
+  background-image: url(http://www.gullyracing.it/solopista/mugello.png);
+  background-repeat: repeat-y repeat-x; 
+  background-position: center center;
+  background-size: 50px;
+  
+}
+
+.red{
+  color: red;
+}
+.bold{
+  font-weight: bold;
+}
