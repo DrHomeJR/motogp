@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/motogp/static/css/main.489a69cc.chunk.css",
+    "main.js": "/motogp/static/js/main.44acb10e.chunk.js",
+    "main.js.map": "/motogp/static/js/main.44acb10e.chunk.js.map",
+    "runtime~main.js": "/motogp/static/js/runtime~main.a2a29505.js",
+    "runtime~main.js.map": "/motogp/static/js/runtime~main.a2a29505.js.map",
+    "static/js/2.36a9cd08.chunk.js": "/motogp/static/js/2.36a9cd08.chunk.js",
+    "static/js/2.36a9cd08.chunk.js.map": "/motogp/static/js/2.36a9cd08.chunk.js.map",
+    "index.html": "/motogp/index.html",
+    "precache-manifest.db5e50ca41882a9c75fc1da033ef9d35.js": "/motogp/precache-manifest.db5e50ca41882a9c75fc1da033ef9d35.js",
+    "service-worker.js": "/motogp/service-worker.js",
+    "static/css/main.489a69cc.chunk.css.map": "/motogp/static/css/main.489a69cc.chunk.css.map"
+  }
+}
